@@ -13,6 +13,6 @@ Singapore Market Resilience Study (Python / Streamlit)<br>
 
 ## Tools
 
-Programming Languages: Python, R, SQL, MongoDB<br>
-Analytics & Visualization: Tableau, Power BI, Excel, KNIME, Google Analytics<br>
-Digital Marketing: Campaign Manager 360; Search & Social Ad Platforms (Google Ads, Microsoft Ads, Meta, TikTok, Snapchat, Amazon)<br>
+**Programming Languages**: Python, R, SQL, MongoDB<br>
+**Analytics & Visualization**: Tableau, Power BI, Excel, KNIME, Google Analytics<br>
+**Digital Marketing**: Campaign Manager 360; Search & Social Ad Platforms (Google Ads, Microsoft Ads, Meta, TikTok, Snapchat, Amazon)<br>
