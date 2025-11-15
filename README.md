@@ -6,7 +6,7 @@ I am an Msc Business Analytics Student at NTU with a strong foundation in data a
 
 Here is a selection of projects showcasing my technical experience:<br>
 <br>
-ESG Study and Sentiment Analysis<br>
+[ESG Study and Sentiment Analysis](https://github.com/dhruvashastry/ESG-Sentiment-Analysis-Study-and-Greenwashing-Risk)<br>
 Tableau Dashboard Creation<br>
 Coffee Sales Analysis (SQL / NoSQL)<br>
 Singapore Market Resilience Study (Python / Streamlit)<br>
