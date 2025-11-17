@@ -8,7 +8,7 @@ Here is a selection of projects showcasing my technical experience:<br>
 <br>
 [ESG Study and Sentiment Analysis](https://github.com/dhruvashastry/ESG-Sentiment-Analysis-Study-and-Greenwashing-Risk)<br>
 [Tableau Dashboard Creation](https://github.com/dhruvashastry/Tableau-Dashboard-Creation-US-Car-Accidents)<br>
-Coffee Sales Analysis (SQL / NoSQL)<br>
+[Coffee Sales Analysis (SQL / NoSQL)](https://github.com/dhruvashastry/Coffee-Sales-Database)<br>
 Singapore Market Resilience Study (Python / Streamlit)<br>
 
 ## Tools
